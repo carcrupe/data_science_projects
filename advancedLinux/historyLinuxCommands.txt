@@ -1,0 +1,1000 @@
+  176  ls
+  177  cd ..
+  178  cat /etc/os-release 
+  179  ls
+  180  cd masterDataScience/
+  181  cat /proc/cpuinfo 
+  182  cat -n .bashrc
+  183  cat -n .Bashrc
+  184  cat -n .bashrc
+  185  cd ..
+  186  cat -n .bashrc
+  187  git clone https://github.com/IgorAramb/DS_CL_files.git
+  188  ls
+  189  cd DS_CL_files/
+  190  ls
+  191  cd
+  192  cd shell
+  193  cd ..
+  194  ls
+  195  cd ..
+  196  ls
+  197  cd /shell
+  198  cd home/carcrupe/
+  199  ls
+  200  cd DS_CL_files/
+  201  ls
+  202  cd shell
+  203  cat Text_example.txt
+  204  cat -n Text_example.txt
+  205  cat Finn.txt 
+  206  cat *.txt
+  207  ls
+  208  cd ..
+  209  ls
+  210  cd opentraveldata/
+  211  ls
+  212  cat optd_aircraft.csv 
+  213  pwd
+  214  cd
+  215  cd -
+  216  ls
+  217  cd ..
+  218  ls
+  219  cd
+  220  cd .
+  221  cd .config/
+  222  ls
+  223  ll
+  224  cd
+  225  ls
+  226  ls -l
+  227  ls -s
+  228  ls -s -l
+  229  ls -a
+  230  ls -la
+  231  ls -la -X
+  232  ll -a
+  233  ll -X
+  234  ll -xa
+  235  ll -Xa
+  236  cd DS_CL_files/
+  237  ls
+  238  cd shell/
+  239  ll
+  240  ll -t
+  241  ll -ta
+  242  ll -tX
+  243  ll -Xt
+  244  ll -Xta
+  245  ll -Sr
+  246  alias gs="git status"
+  247  alias
+  248  gs
+  249  cd ..
+  250  ls
+  251  cd ..
+  252  ls
+  253  cd repo/
+  254  ls
+  255  cd masterDataScience/
+  256  ls
+  257  rm README.md.save 
+  258  ls
+  259  ll
+  260  chmod u+x README.md 
+  261  ll
+  262  chmod u-w README.md 
+  263  ll
+  264  ls
+  265  ls -l
+  266  chmod u+w,g+x,o-w README.md 
+  267  ls -ll
+  268  chmod 777
+  269  chmod 777 README.md 
+  270  ls -l
+  271  ls
+  272  cd ..
+  273  ls
+  274  mkdir directorio
+  275  cd directorio/
+  276  mkdir uno dos tres
+  277  ll
+  278  mkdir -p uno/dos/tres
+  279  lss
+  280  ls
+  281  cd uno/
+  282  ll
+  283  cd dos/
+  284  ll
+  285  cd tres/
+  286  ll
+  287  cd ../../..
+  288  ls
+  289  cd ..
+  290  ls
+  291  rm directorio/
+  292  rm -r directorio/
+  293  ls
+  294  touch fichero
+  295  ls
+  296  rm fichero 
+  297  ls
+  298  touch fichero
+  299  cp fichero fichero2
+  300  ls
+  301  mkdir uno
+  302  cp -r fichero uno
+  303  ls
+  304  cd uno/
+  305  ls
+  306  cp fichero2 uno
+  307  cp -r fichero2 uno
+  308  cd ..
+  309  cp fichero2 uno
+  310  cd uno/
+  311  ls
+  312  cd ..
+  313  ls
+  314  mv fichero uno
+  315  ls
+  316  cd uno/
+  317  ls
+  318  cd ..
+  319  ls
+  320  cd uno
+  321  rm fichero2
+  322  ls
+  323  cd ..
+  324  mv fichero2 fichero
+  325  ls
+  326  cd uno/
+  327  ls
+  328  cd ..
+  329  rm fichero 
+  330  rm -r uno/
+  331  ls
+  332  mkdir newDirect
+  333  ls
+  334  cd newDirect/
+  335  touch text_file
+  336  ls
+  337  cat text_file 
+  338  ll
+  339  chmod 717 text_file 
+  340  ll
+  341  mkdir -r sub1/sub2/sub3
+  342  man mkdir
+  343  mkdir -p sub1/sub2/sub3
+  344  ls
+  345  cp text_file sub1
+  346  ls
+  347  cd sub1
+  348  ls
+  349  mv text_file text_file.2 sub2/
+  350  mv text_file text2 sub2
+  351  ls
+  352  cd sub2/
+  353  ls
+  354  mv text_file text2
+  355  ls
+  356  cd ..
+  357  ls
+  358  cp sub1 sub3
+  359  cp -r sub1 sub3
+  360  ls
+  361  cp -r sub3 sub1
+  362  ls
+  363  cd sub
+  364  cd sub1
+  365  ls
+  366  cd sub2
+  367  ls
+  368  cd ..
+  369  cd..
+  370  ls
+  371  cd ..
+  372  ls
+  373  cd ..
+  374  ls
+  375  cd newDirect/
+  376  ls
+  377  rm -r sub3
+  378  ls
+  379  cp -r sub1 sub3
+  380  ls
+  381  cd sub
+  382  cd sub3
+  383  ls
+  384  cd sub3
+  385  ls
+  386  cd sub2
+  387  ls
+  388  cd sub3
+  389  ls
+  390  cd ../../../..
+  391  ls
+  392  rm -r sub3
+  393  ls
+  394  cd sub1
+  395  ls
+  396  rm -r sub3
+  397  ls
+  398  cd sub2
+  399  ls
+  400  cd ..
+  401  ls
+  402  cd newDirect/
+  403  ls
+  404  cp -r sub1 sub1/sub2/sub3
+  405  cp -r sub1 /sub2/sub3
+  406  ls
+  407  cp -r sub1 sub3
+  408  ls
+  409  cp -r sub1 sub3
+  410  ls sub3
+  411  ls sub1
+  412  cp -r sub1 sub1/sub2/sub3
+  413  cd ..
+  414  cd newDirect/
+  415  ls
+  416  rm -r sub3
+  417  cd sub1/
+  418  cd sub2/
+  419  cd sub3/
+  420  ls
+  421  rm -r sub1/
+  422  cd ../../
+  423  ls
+  424  cd ..
+  425  ls
+  426  cp -r sub1 sub1/sub2/sub3
+  427  ls 
+  428  ls sub1/sub2/sub3
+  429  ls
+  430  mv text_file text2
+  431  ls
+  432  mv text2 sub1/sub2
+  433  ls
+  434  cd sub1
+  435  ls
+  436  cd sub2
+  437  ls
+  438  mv text2 ../../newDirect
+  439  ls
+  440  cd ..
+  441  ls
+  442  mv newDirect text
+  443  ls
+  444  cd ..
+  445  ls
+  446  cd newDirect/
+  447  cd ..
+  448  ls
+  449  cd newDirect/
+  450  mv text .text
+  451  ls
+  452  ll
+  453  cd ..
+  454  ls
+  455  rm -r newDirect/
+  456  ls
+  457  man bash
+  458  ls
+  459  cd ..
+  460  ls
+  461  cd DS_CL_files/
+  462  ls
+  463  cd shell
+  464  ls
+  465  less Finn.txt 
+  466  man ls
+  467  less -N Finn.txt 
+  468  cd ..
+  469  cd opentraveldata/
+  470  ls
+  471  less optd_airlines.csv 
+  472  less -S optd_airlines.csv 
+  473  which python
+  474  which anaconda
+  475  whereis python
+  476  cd
+  477  cat .history
+  478  ll
+  479  history
+  480  history 50
+  481  history -50
+  482  echo $HISTFILE
+  483  tail history 
+  484  tail .history 
+  485  ll
+  486  tail /home/carcrupe/.bash_history 
+  487  tail history
+  488  tail $HISTFILE
+  489  tail /home/carcrupe/.bash_history 
+  490  tail $HISTFILE
+  491  cat $HISTFILE | tail
+  492  cat -n $HISTFILE | tail
+  493  ls
+  494  cd repo/
+  495  cd ..
+  496  cd DS_CL_files/opentraveldata/
+  497  cat -n optd_aircraft.csv  | tail
+  498  cat -n optd_aircraft.csv  | tail -3
+  499  cat -n optd_aircraft.csv  | tail +300
+  500  cat -n optd_aircraft.csv  | head 10
+  501  cat -n optd_aircraft.csv  | head -10
+  502  ls
+  503  cd ..
+  504  ls
+  505  cd shell
+  506  ls
+  507  wc Text_example.txt
+  508  wc -w Text_example.txt
+  509  cat Text_example.txt
+  510  cat -n optd_aircraft.csv  | wc -l
+  511  cd ..
+  512  cd opentraveldata/
+  513  cat -n optd_aircraft.csv  | wc -l
+  514  cat -n optd_aircraft.csv  | wc -w
+  515  ls
+  516  ls | wc -w
+  517  ls | wc 
+  518  ls | wc | wc
+  519  cat -n optd_aircraft.csv  | head -10 > first10lines
+  520  ls
+  521  cat first10lines 
+  522  cat -n optd_aircraft.csv  | head -10 >> first10lines
+  523  cat first10lines 
+  524  wc -l < first10lines 
+  525  ls
+  526  rm first10lines 
+  527  ll
+  528  ls optd_por_public.csv | largest_file.txt
+  529  ls optd_por_public.csv > largest_file.txt
+  530  ls
+  531  cat largest_file.txt 
+  532  ls optd_por_public.csv | > largest_file.txt
+  533  cat largest_file.txt 
+  534  ls optd_por_public.csv | touch largest_file.txt
+  535  ls
+  536  cat largest_file.txt 
+  537  ls optd_por_public.csv 
+  538  ls -s
+  539  ll
+  540  ll optd_por_public.csv | touch largest_file.txt 
+  541  ls
+  542  cat largest_file.txt 
+  543  ll optd_por_public.csv | head -1 > largest_file.txt 
+  544  ls
+  545  cat largest_file.txt 
+  546  wc largest_file.txt 
+  547  ll optd_por_public.csv | wc
+  548  ls
+  549  cd ..
+  550  cd shell
+  551  ls
+  552  wc -w Finn.txt 
+  553  cat -n Finn.txt | wc -w
+  554  cat -n Finn.txt | head -3
+  555  cd ..
+  556  cd opentraveldata/
+  557  ls
+  558  cat largest_file.txt 
+  559  ls
+  560  cd ..
+  561  cd shell
+  562  ls
+  563  head -5 Finn.txt | wc -w
+  564  cat Finn.txt | head -5 | wc -w
+  565  cd ..
+  566  cd opentraveldata/
+  567  ls -ls
+  568  ls -ls | tail -1 > largest.txt
+  569  ls
+  570  cat largest.txt
+  571  ls
+  572  rm largest.txt
+  573  rm largest_file.txt 
+  574  cd ..
+  575  cd shell/
+  576  ls
+  577  cd ..
+  578  cd
+  579  find | wc
+  580  cd DS_CL_files/
+  581  find | wc
+  582  find
+  583  cd shell
+  584  find
+  585  find |wc
+  586  cd ..
+  587  find |wc
+  588  cd
+  589  find . -name "text_file"
+  590  find . -name "text_file*"
+  591  find . -type f -name "text_file*"
+  592  find . -maxdepth 2 -type f -name "text_file*"
+  593  find . -maxdepth 3 -type f -name "text_file*"
+  594  find . -maxdepth 5 -type f -name "text_file*"
+  595  cd
+  596  ls
+  597  cd repo/
+  598  ls
+  599  cd ..
+  600  cd DS_CL_files/
+  601  find -maxdepth 5 -type f -name "text_file*" -exec ls -l {} \; -exec head -2 {} \;
+  602  find  -type f -name "text_file*" -exec ls -l {} \; -exec head -2 {} \;
+  603  f
+  604  ls
+  605  find . -mtime -7
+  606  find . -mtime -1
+  607  find . ! perm 777
+  608  find . type f ! perm 777
+  609  find . -type f ! -perm 777
+  610  find . -maxdepth 1 -type f ! -perm 777
+  611  find . -maxdepth 1 -type f ! -perm 777 -exec -ll
+  612  find . -maxdepth 1 -type f ! -perm 777 -exec ll
+  613  find . -maxdepth 1 -type f ! -perm 777 -exec ws -w
+  614  find . -maxdepth 1 -type f ! -perm 777 -exec ls
+  615  find . -maxdepth 1 -type f ! -perm 777 -exec ls -s {}
+  616  find . -maxdepth 1 -type f ! -perm 777 -exec ls -l {}
+  617  find . -maxdepth 1 -type f ! -perm 777 -exec ls -l {} \;
+  618  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l \;"
+  619  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l | wc -w" \;
+  620  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l | wc " \;
+  621  msn dh
+  622  man sh
+  623  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l \;" | wc
+  624  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l{} \;" | wc
+  625  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l {} \;" | wc
+  626  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l {}" \; | wc
+  627  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l | wc " \;
+  628  find . -maxdepth 1 -type f ! -perm 777 -exec sh -c "ls -l {}" \; 
+  629  find . -empty ! -perm 777
+  630  ls
+  631  cd ..
+  632  ls
+  633  cd ..
+  634  ls
+  635  cd home/carcrupe/
+  636  ls
+  637  cd DS_CL_files/
+  638  find . -type f -exec sh -c "ls -S" \; | head -3
+  639  find . -type f -exec sh -c "ls -lS" \; | head -3
+  640  find . -type f -exec sh -c "ls -lS" \; 
+  641  ll
+  642  cd opentraveldata/
+  643  l
+  644  ls
+  645  ll
+  646  find . -type f -exec sh -c "ls -lS" \; | head -2
+  647  find . -type f -exec sh -c "ls -lS" \; | head -3
+  648  find . -type f -exec sh -c "ls -lS {}" \;
+  649  find . -type f -exec sh -c "ls -n -lS {}" \;
+  650  find . -type f -exec sh -c "ls -lS {}" \;
+  651  find . -type f -exec sh -c "ls -lS {}" \; tail -1
+  652  find . -type f -exec sh -c "ls -lS {}" \; | tail -1
+  653  find . -type f -exec sh -c "ls -lS {}" \; | tail -2
+  654  find . -type f -exec sh -c "ls -lSr {}" \; 
+  655  find . -type f -exec sh -c "ls -lS {}" \; 
+  656  find . -type f -exec sh -c "ls -S {}" \; 
+  657  find . -type f -exec sh -c "ls -rS {}" \; 
+  658  find . -type f -exec sh -c "ls -lS {} | head -2" \; 
+  659  find . -type f -exec sh -c "ls -lS {} | head -1" \; 
+  660  find . -type f -exec sh -c "ls -lS | head -1" \; 
+  661  find . -type f -exec sh -c "ls -lS {}" \; | ls -lS 
+  662  find . -type f -exec ls -lS 
+  663  find . -type f -exec ls -lS \;
+  664  find . -type f -exec sh -c "ls -lS {}" \;
+  665  find . -type f -exec sh -c "ls -lS " \;
+  666  find . -type f -exec head {} \;
+  667  find . -type f -exec ls -lS \; -exec head -2
+  668  find . -type f -exec ls -lS \; -exec head -2 \;
+  669  find . -type f -exec ls -lS \; -exec head -1 \;
+  670  find . -type f -exec ls -lS {} \; -exec head -1{} \;
+  671  find . -type f -exec ls -lS {} \; -exec head -1 {} \;
+  672  find . -type f -exec ls -lS {} \; 
+  673  ls
+  674  cd repo
+  675  ls
+  676  git clone https://github.com/fivethirtyeight/data/tree/master/airline-safety
+  677  git clone https://github.com/fivethirtyeight/data/tree/master/airline-safety.git
+  678  git clone https://github.com/fivethirtyeight/data/tree/master/study-drugs
+  679  git clone airline-safety/airline-safety.csv
+  680  git clone https://github.com/carcrupe/Airline-safety.git
+  681  cd Airline-safety/
+  682  ls
+  683  git pull https://github.com/fivethirtyeight/data/tree/master/airline-safety
+  684  git pull https://github.com/fivethirtyeight/trunk/airline-safety
+  685  git pull https://github.com/fivethirtyeight/data/trunk/airline-safety
+  686  git init
+  687  cd ..
+  688  ls
+  689  rm -r Airline-safety/
+  690  rm -rf Airline-safety/
+  691  ls
+  692  mkdir zikaVirus
+  693  cd zikaVirus/
+  694  ls
+  695  git clone https://github.com/BuzzFeedNews/zika-data.git
+  696  ls
+  697  cd ..
+  698  git add zikaVirus/
+  699  git status
+  700  cd zikaVirus/
+  701  ls
+  702  cd ..
+  703  ls
+  704  rm -rf zikaVirus/
+  705  ls
+  706  git clone https://github.com/carcrupe/zikaVirus.git
+  707  cd zikaVirus/
+  708  git pull https://github.com/BuzzFeedNews/zika-data.git
+  709  ls
+  710  cd ..
+  711  ls
+  712  cd zikaVirus/
+  713  ls
+  714  git clone https://github.com/BuzzFeedNews/zika-data.git
+  715  ls
+  716  cd zika-data/
+  717  ls
+  718  ll
+  719  cd data/
+  720  ll
+  721  cd raw/
+  722  ll
+  723  cd paho-who/
+  724  ll
+  725  head -5 paho-who-cases-reported-latest.csv 
+  726  head -n -5 paho-who-cases-reported-latest.csv 
+  727  head -N -5 paho-who-cases-reported-latest.csv 
+  728  head -5 paho-who-cases-reported-latest.csv 
+  729  cat -n paho-who-cases-reported-latest.csv | head -5
+  730  cat -n paho-who-cases-reported-latest.csv | head -20
+  731  ls
+  732  cd ..
+  733  ll
+  734  cd ..
+  735  ll
+  736  cd parsed/
+  737  ll
+  738  cd ..
+  739  ls
+  740  cd ..
+  741  ls
+  742  cat README.md 
+  743  ipython
+  744  ls
+  745  cd repo/
+  746  ls
+  747  seq 1 2 10 > ex.txt
+  748  cat ex.txt 
+  749  uniq ex.txt 
+  750  seq 1 10 >> ex.txt 
+  751  uniq ex.txt 
+  752  uniq -c  ex.txt 
+  753  uniq -d  ex.txt 
+  754  cat ex.txt | uniq
+  755  sort ex.txt | uniq
+  756  sort ex.txt | uniq -c
+  757  sort ex.txt | uniq -d
+  758  sort -n -u ex.txt 
+  759  ls
+  760  cd ..
+  761  cd DS_CL_files/
+  762  ls
+  763  cd opentraveldata/
+  764  ls
+  765  sort -t "^" -k 6r optd_aircraft.csv  | head
+  766  sort -t "^" -k 6r,6 optd_aircraft.csv  | head
+  767  cut -d "^" -f 1-3,5 optd_aircraft.csv |head
+  768  cat optd_aircraft.csv 
+  769  echo "master data science" | tr a A
+  770  echo "master data science" | tr sa AB
+  771  echo "master data science" | tr -s " " "^"
+  772  echo "mmaster daaaaata science" | tr -s "ma " "ma "
+  773  echo "master 123 data 124 science 1" | tr -cd "[:digit:]"
+  774  echo "master 123 data 124 science 1" | tr -cd "[:alpha:]"
+  775  jobs
+  776  pip install csvkit
+  777  csvlook optd_aircraft.csv
+  778  csvlook optd_aircraft.csv | less
+  779  csvstat -d '^' optd_aircraft.
+  780  csvstat -d '^' optd_aircraft.csv
+  781  ls
+  782  git status
+  783  python
+  784  ipython
+  785  jupyter-notebook
+  786  cd repo/masterDataScience/AdvancedLinux/
+  787  ls
+  788  nano column_line_number.sh 
+  789  nana column_line_number.sh 
+  790  nano column_line_number.sh 
+  791  ls
+  792  cd repo/
+  793  ls
+  794  cd masterDataScience/
+  795  ls
+  796  mkdir 2.Advanced Linux & Python
+  797  ls
+  798  rm -r 2.Advanced/
+  799  rm -r Linux/
+  800  mk dir 2AdvancedLinux&Python
+  801  ls
+  802  mkdir AdvancedLinux&Python
+  803  ls
+  804  cd ..
+  805  ls
+  806  cd masterDataScience/
+  807  ls
+  808  git status
+  809  cd ..
+  810  git status
+  811  cd masterDataScience/
+  812  ls
+  813  git add
+  814  git add AdvancedLinux/
+  815  ls
+  816  git status
+  817  git commit AdvancedLinux/
+  818  ls
+  819  git log
+  820  git status
+  821  git commit -a AdvancedLinux/
+  822  git commit AdvancedLinux/
+  823  ls
+  824  cd AdvancedLinux/
+  825  git commit 
+  826  cd ..
+  827  git commit 
+  828  cd AdvancedLinux/
+  829  seq 1 10
+  830  seq 1 10 > text.txt
+  831  seq 1 10 >> text.txt
+  832  uniq text.txt 
+  833  sort text.txt | uniq
+  834  sort text.txt | uniq -c
+  835  sort text.txt | uniq -d
+  836  sort text.txt
+  837  sort -n text.txt
+  838  sort -u text.txt
+  839  sort text.txt | uniq -d
+  840  sort text.txt | uniq -cd
+  841  cd ../..
+  842  ls
+  843  cd ..
+  844  ls
+  845  cd DS_CL_files/
+  846  cd opentraveldata/
+  847  ls
+  848  cd ..
+  849  git commit repo
+  850  cd repo/
+  851  ls
+  852  git commit 
+  853  ll
+  854  cd masterDataScience/
+  855  ll
+  856  git commit
+  857  git add AdvancedLinux/
+  858  git status
+  859  git commit
+  860  git status
+  861  git commit
+  862  git push
+  863  git log
+  864  cd ../..
+  865  cd DS_CL_files/
+  866  cd opentraveldata/
+  867  ls
+  868  sort -t "^" k6 optd_aircraft.csv 
+  869  sort -t "^" -k6 optd_aircraft.csv 
+  870  sort -t "^" -k6 optd_aircraft.csv | head
+  871  sort -t "^" -k6,6 optd_aircraft.csv | head
+  872  sort -t "^" -k6r,6 optd_aircraft.csv | head
+  873  sort -t "^" -k1,1 -u optd_aircraft.csv | head
+  874  sort -t "^" -k6,6 optd_aircraft.csv | head
+  875  sort -t "^" -k6r,6 optd_aircraft.csv | head
+  876  man sort
+  877  sort -t "^" --key6r,6 optd_aircraft.csv | head
+  878  sort -t "^" --key=6r,6 optd_aircraft.csv | head
+  879  sort -t "^" -k6,6 -k2,2 optd_aircraft.csv | head
+  880  sort -t "^" -k3,3 -k2,2 optd_aircraft.csv | head
+  881  sort -t "^"  optd_aircraft.csv | head
+  882  sort -t "^"  optd_aircraft.csv 
+  883  sort -t "^"  optd_aircraft.csv | head -20
+  884  sort -t "^" -k1,1 -k2,2  optd_aircraft.csv | head -20
+  885  sort -t "^" -k1,1 -k3,3  optd_aircraft.csv | head -20
+  886  cd ..
+  887  cd repo/masterDataScience/AdvancedLinux/
+  888  seq 15 > 20lines.txt
+  889  seq 9 1 20 >> 20lines.txt 
+  890  echo "20\n20" >> 20lines.txt 
+  891  cat 20lines.txt 
+  892  sort -n 20lines.txt 
+  893  sort 20lines.txt | uniq -c
+  894  sort 20lines.txt | uniq -d
+  895  sort -u 20lines.txt 
+  896  seq 0 2 40 > 20lines2.txt
+  897  echo "20/n20" >> 20lines.txt 
+  898  cat 20lines
+  899  cat 20lines.txt
+  900  ls
+  901  man cat
+  902  sort 20lines.txt | uniq -d | wc
+  903  sort 20lines.txt | uniq -d 
+  904  cd ../../..
+  905  ls
+  906  cd DS_CL_files/
+  907  cd opentraveldata/
+  908  ls
+  909  cut -d "^" -f 1-3, 5 optd_aircraft.csv  |head
+  910  cut -d "^" -f 1-3, 5 optd_aircraft.csv  | head
+  911  cut -d "^" -f 1-3,5 optd_aircraft.csv  | head
+  912  cut -d "^" -f 1-3,5 --output-delimiter=";"  optd_aircraft.csv  | head
+  913  head optd_aircraft.csv | "^" ";"
+  914  head optd_aircraft.csv | tr  "^" ";"
+  915  echo "master data science" | tr -cd sa
+  916  echo "master data science" | tr -d sa
+  917  echo "master 123 data 124 science 1" | tr -d "[:alpha:]“
+  918  echo "master 123 data 124 science 1" | tr -d "[:alpha:]"
+  919  echo "master 123 data 124 science 1" | tr "[:lower:]" "[:upper:]“
+  920  echo "master 123 data 124 science 1" | tr "[:lower:]" "[:upper:]"
+  921  echo "master 123 data 124 science 1" | tr -d "[:alpha:]"
+  922  echo "master 123 data 124 science 1" | tr -d "[:digit:]"
+  923  seq 10 > numbers
+  924  paste numbers 
+  925  paste numbers numbers 
+  926  seq 20 35 > numbers2
+  927  paste numbers numbers2
+  928  man paste
+  929  paste -d "," numbers numbers2
+  930  paste -s "," numbers numbers2
+  931  paste -s "," numbers numbers
+  932  cat numbers | paste - - 
+  933  cd ..
+  934  ls
+  935  cd shell/
+  936  ls
+  937  seq 1 10 > numbers
+  938  paste numbers Text_example.txt
+  939  paste Text_example.txt Text_example.txt
+  940  paste numbers Text_example.txt
+  941  paste <(cat numbers) <(cat Text_example.txt)
+  942  paste <(numbers) <(Text_example.txt)
+  943  paste <(cat numbers) <(cat Text_example.txt)
+  944  paste <(seq 10) <(cat Text_example.txt)
+  945  paste <(seq 10) <(seq 15)
+  946  cd ..
+  947  cd opentraveldata/
+  948  ls
+  949  tr -d "^" "," optd_aircraft.csv 
+  950  tr "^" "," optd_aircraft.csv 
+  951  head optd_aircraft.csv | tr "^" ","  
+  952  head optd_aircraft.csv | tr "^" ","  | wc -d ","
+  953  head optd_aircraft.csv | tr "^" ","  | wc 
+  954  head optd_aircraft.csv | tr "^" ","  | wc -1
+  955  head -1 optd_aircraft.csv | wc -w
+  956  head -1 optd_aircraft.csv | tr "," " " | wc -w
+  957  head -1 optd_aircraft.csv | tr "," " " 
+  958  head -1 optd_aircraft.csv | tr "^" " " 
+  959  head -1 optd_aircraft.csv | tr "^" " " | wc -w
+  960  echo '20\n20'
+  961  echo '20/n20'
+  962  echo '20\n20'
+  963  echo "20\n20"
+  964  echo ´20\n20´
+  965  echo 20\n20
+  966  head -1 optd_aircraft.csv | tr "^" " " | wc -w
+  967  echo -e  "20\n20"
+  968  paste <(seq 8)< (head -1 optd_aircraft.csv )
+  969  paste <(seq 8)<(head -1 optd_aircraft.csv)
+  970  paste<(seq 8)<(head -1 optd_aircraft.csv)
+  971  paste<(seq 8)
+  972  paste < (seq 8)
+  973  paste < (seq 8) < (head -1 optd_aircraft.csv)
+  974  paste < (seq 8) < (cat optd_aircraft.csv)
+  975  head -1 optd_por_public.csv | tr "^" " " | wc -w
+  976  head -1 optd_aircraft.csv | tr "^" "\n" | wc -w
+  977  head -1 optd_aircraft.csv | tr "^" "\n" 
+  978  paste < (seq 8) < (head -1 optd_aircraft.csv | tr "^" "\n")
+  979  paste <(seq 8) <(head -1 optd_aircraft.csv | tr "^" "\n")
+  980  paste <(seq 8) <(cat optd_aircraft.csv)
+  981  paste <(seq 8) <(head -1 optd_aircraft.csv | tr "^" " ")
+  982  cd ..
+  983  ls
+  984  cd shell/
+  985  grep this Text_example.txt
+  986  grep -v this Text_example.txt
+  987  grep -vi this Text_example.txt
+  988  grep -i this Text_example.txt
+  989  grep -ni this Text_example.txt
+  990  grep -ci this Text_example.txt
+  991  grep -A 2 this Text_example.txt
+  992  grep -nw line Text_example.txt
+  993  grep -nw lin Text_example.txt
+  994  grep -n lin Text_example.txt
+  995  cd ..
+  996  cd opentraveldata/
+  997  ls
+  998  grep -n aero optd_airlines.csv 
+  999  grep -n aero optd_airlines.csv | wc -l
+ 1000  grep -in aero optd_airlines.csv | wc -l
+ 1001  cut -d "^" -f 8 optd_airlines.csv | head
+ 1002  cut -d "^" -f 8 optd_airlines.csv | grep -iEn "^aero" optd_airlines.csv  
+ 1003  cut -d "^" -f 8 optd_airlines.csv | grep -iE "^aero" optd_airlines.csv  
+ 1004  cut -d "^" -f 8 optd_airlines.csv | grep -iE "^Aero" optd_airlines.csv  
+ 1005  cut -d "^" -f 8 optd_airlines.csv | grep -iE "Aero" optd_airlines.csv  
+ 1006  cut -d "^" -f 8 optd_airlines.csv | grep -iE "^aero" optd_airlines.csv  
+ 1007  cut -d "^" -f 8 optd_airlines.csv | grep -iE "^aero"
+ 1008  cut -d "^" -f 8 optd_airlines.csv | grep -i "^aero"
+ 1009  cut -d "^" -f 8 optd_airlines.csv | grep -i "^aero" | wc -l
+ 1010  $HIST
+ 1011  echo $HIST
+ 1012  history
+ 1013  ll
+ 1014  cd ..
+ 1015  cd shell/
+ 1016  ls
+ 1017  sed -i s/this/THAT/g Text_example.txt
+ 1018  cat Text_example.txt
+ 1019  seq 5 |sed -n '2p;4p'
+ 1020  man sed
+ 1021  ls
+ 1022  gedit history
+ 1023  sudo apt install gedit
+ 1024  gedit history
+ 1025  history
+ 1026  seq 5 |sed -n '2p;4p'
+ 1027  seq 5 |sed -n '3d'
+ 1028  seq 5 |sed '3d'
+ 1029  seq 5 30 |sed '3d'
+ 1030  sed -i "3d" Text_example.txt
+ 1031  cat Text_example.txt
+ 1032  sed -n "2d" Text_example.txt > linea_problema.txt
+ 1033  ls
+ 1034  cat linea_problema.txt 
+ 1035  cat Text_example.txt
+ 1036  sed -n "d2" Text_example.txt > linea_problema.txt
+ 1037  sed -n "2d" Text_example.txt > linea_problema.txt
+ 1038  cat linea_problema.txt 
+ 1039  cp Text_example.txt ejemplo.txt
+ 1040  ls
+ 1041  sed s/line/\n/g ejemplo.txt 
+ 1042  cp Text_example.txt ejemplo.txt
+ 1043  sed s/line/'\n'/g ejemplo.txt 
+ 1044  cat ejemplo.txt 
+ 1045  sed -i s/line/'\n'/g ejemplo.txt 
+ 1046  cat ejemplo.txt 
+ 1047  cp Text_example.txt ejemplo.txt
+ 1048  sed -n ejemplo.txt 
+ 1049  sed -n "line" ejemplo.txt 
+ 1050  zip files.zip Finn.txt Text_example.txt
+ 1051  sudo apt intall zip
+ 1052  sudo apt install zip
+ 1053  zip files.zip Finn.txt Text_example.txt
+ 1054  ll
+ 1055  unzip files.zip 
+ 1056  unzip -l files.zip 
+ 1057  zcat files.zip
+ 1058  zcat files.zip  |tail
+ 1059  unzip -c files.zip Text_example.txt | cat
+ 1060  unzip -c files.zip Text_example.txt 
+ 1061  ls
+ 1062  mkdir unzipped
+ 1063  cp files.zip unzipped/
+ 1064  cd unzipped/
+ 1065  ls
+ 1066  unzip files.zip 
+ 1067  ls
+ 1068  gzip Finn.txt Text_example.txt 
+ 1069  ls
+ 1070  zcat Finn.txt.gz 
+ 1071  gunzip Finn.txt.gz 
+ 1072  ls
+ 1073  gunzip Text_example.txt.gz 
+ 1074  bzip2 "*txt"
+ 1075  bzip2 Finn.txt Text_example.txt 
+ 1076  ls
+ 1077  bzcat Finn.txt.bz2 
+ 1078  bunzip2 Finn.txt.bz2 Text_example.txt.bz2 
+ 1079  ls
+ 1080  cd ..
+ 1081  cd opentraveldata/ shell/
+ 1082  cd opentraveldata/shell/
+ 1083  cd opentraveldata/
+ 1084  ls
+ 1085  cd ../
+ 1086  cd shell/
+ 1087  cd unzipped/
+ 1088  ls
+ 1089  cd ..
+ 1090  cd ../..
+ 1091  cd cd repo/masterDataScience/
+ 1092  cd repo/masterDataScience/
+ 1093  ls
+ 1094  cd AdvancedLinux/
+ 1095  ls
+ 1096  cd ..
+ 1097  cd DS_CL_files/opentraveldata/
+ 1098  ls
+ 1099  cp optd_aircraft.csv ~/repo/masterDataScience/AdvancedLinux/
+ 1100  cd ..
+ 1101  cd repo/masterDataScience/AdvancedLinux/
+ 1102  ls
+ 1103  cut -d "^" -f 8 optd_airlines.csv | head
+ 1104  paste <(seq 8) <(head -1 optd_aircraft.csv | tr "^" " ")
+ 1105  paste <(seq 8) <(head -1 optd_aircraft.csv | tr "^" "\n")
+ 1106  head -1 optd_aircraft.csv | tr "^" "\n" 
+ 1107  touch column_line_number.sh
+ 1108  cat column_line_number.sh 
+ 1109  bash column_line_number.sh 
+ 1110  cd ..
+ 1111  mv -r AdvancedLinux/ advanceLinux
+ 1112  ls
+ 1113  cd AdvancedLinux/
+ 1114  man mv
+ 1115  ls
+ 1116  cd ..
+ 1117  ls
+ 1118  mv AdvancedLinux/ advancedLinux
+ 1119  ls
+ 1120  cd advancedLinux/
+ 1121  ls
+ 1122  bash column_line_number.sh 
+ 1123  cd ..
+ 1124  ll
+ 1125  cd ..
+ 1126  ll
+ 1127  cd repo/masterDataScience/
+ 1128  ll
+ 1129  git add
+ 1130  git add .
+ 1131  git status
+ 1132  git commit -m "Bash script and new files"
+ 1133  git push 
+ 1134  cd advancedLinux/
+ 1135  ll
+ 1136  which bash
+ 1137  cat column_line_number.sh 
+ 1138  column_line_number.sh
+ 1139  ./column_line_number.sh
+ 1140  which bash
+ 1141  ./column_line_number.sh
+ 1142  column_line_number.sh
+ 1143  chmod -777 column_line_number.sh 
+ 1144  ll
+ 1145  chmod 777 column_line_number.sh 
+ 1146  ll
+ 1147  ./column_line_number.sh
+ 1148  echo $0
+ 1149  ./column_line_number.sh 
+ 1150  ./column_line_number.sh "^" ./optd_aircraft.csv 
+ 1151  cut -d "^" -f 8 optd_airlines.csv | head
+ 1152  cut -d "^" -f 8 optd_aircraft.csv | head
+ 1153  cut -d "^" -f 7 optd_aircraft.csv | head
+ 1154  ls
+ 1155  cd ..
+ 1156  ls
+ 1157  cd advancedLinux/
+ 1158  bash rc
+ 1159  bash.rc
+ 1160  bash -rc
+ 1161  ls
+ 1162  nano .bashrc
+ 1163  ls
+ 1164  cd repo/masterDataScience/
+ 1165  git add .
+ 1166  git status
+ 1167  git commit 
+ 1168  git push
+ 1169  history
+ 1170  cd repo/masterDataScience/
+ 1171  cat history > secondClassLinux.txt
+ 1172  cat .history > secondClassLinux.txt
+ 1173  cat $HIST > secondClassLinux.txt
+ 1174  $HIST
+ 1175  history > secondClassLinux.txt
