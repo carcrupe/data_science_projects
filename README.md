@@ -1,8 +1,13 @@
-# Data Science projects
+# Data Science projects 2020
 
+[Plant pathology - Computer Vision](https://github.com/carcrupe/data_science_projects/tree/master/projects_2020/plant_pathology) <br />
+[Tweet disaster prediction - NLP & deep learning](https://github.com/carcrupe/data_science_projects/tree/master/projects_2020/tweet_disaster_prediction) <br />
+[Tweet sentiment classification - NLP](https://github.com/carcrupe/data_science_projects/tree/master/projects_2020/tweet_sentiment_analyisis_NLP) <br />
+[Brain glioma classification](https://github.com/carcrupe/data_science_projects/tree/master/projects_2020/brain_gliomas_analysis) 
 
-## Basic Linux and Python concepts, functions and structures
+# Data Science practices and main libraries for exploratory analysis, machine learning and deep learning
 
+## Refresh Linux and Python
 [Python Intro](https://github.com/carcrupe/masterDataScience/tree/master/python_basics) <br />
 [Linux console Intro](https://github.com/carcrupe/masterDataScience/tree/master/linux_commands)
 
@@ -12,7 +17,7 @@
 Get familiar with main libraries for data scientists. Learn by doing several exercises and small projects.
 
 
-### Challenge  to analyze airport destinations
+#### Project to analyze airport destinations and features
 
 [Airport project](https://github.com/carcrupe/data_science_projects/tree/master/numpy_pandas_matplotlib/airports_project)
 
