@@ -1,5 +1,6 @@
 # Data Science projects 2020
 
+[Heart arrythmias classifier - Signal processing](https://github.com/carcrupe/physionet_challenge)<br />
 [Plant pathology - Computer Vision](https://github.com/carcrupe/data_science_projects/tree/master/projects_2020/plant_pathology) <br />
 [Tweet disaster prediction - NLP & deep learning](https://github.com/carcrupe/data_science_projects/tree/master/projects_2020/tweet_disaster_prediction) <br />
 [Tweet sentiment classification - NLP](https://github.com/carcrupe/data_science_projects/tree/master/projects_2020/tweet_sentiment_analyisis_NLP) <br />
